@@ -1,4 +1,4 @@
-# potion_scepter_concept
+# potion_scepter_mod_concept
 **药水权杖（Potion Scepter）模组 - 完整设定**
 关于药水权杖系统的构想，Minecraft JE模组
 
